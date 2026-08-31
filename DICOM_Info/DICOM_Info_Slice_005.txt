@@ -1,0 +1,232 @@
+                             Filename: 'C:\Users\hP\Downloads\archive\data\BrainTumorMRI\IM-0001-0005.dcm'
+                          FileModDate: '27-Aug-2026 23:13:38'
+                             FileSize: 329190
+                               Format: 'DICOM'
+                        FormatVersion: 3
+                                Width: 364
+                               Height: 448
+                             BitDepth: 12
+                            ColorType: 'grayscale'
+       FileMetaInformationGroupLength: 204
+           FileMetaInformationVersion: [2×1 uint8]
+              MediaStorageSOPClassUID: '1.2.840.10008.5.1.4.1.1.4'
+           MediaStorageSOPInstanceUID: '1.3.12.2.1107.5.2.31.30222.30000007072005313478100000489'
+                    TransferSyntaxUID: '1.2.840.10008.1.2.1'
+               ImplementationClassUID: '1.2.276.0.7238010.5.0.3.5.4'
+            ImplementationVersionName: 'OSIRIX'
+         SourceApplicationEntityTitle: 'OsiriX'
+                 SpecificCharacterSet: 'ISO_IR 100'
+                            ImageType: 'ORIGINAL\PRIMARY\M\ND\NORM'
+                          SOPClassUID: '1.2.840.10008.5.1.4.1.1.4'
+                       SOPInstanceUID: '1.3.12.2.1107.5.2.31.30222.30000007072005313478100000489'
+                            StudyDate: '20070720'
+                           SeriesDate: '20070720'
+                      AcquisitionDate: '20070720'
+                          ContentDate: '20070720'
+                            StudyTime: '081335.968000'
+                           SeriesTime: '082947.937000'
+                      AcquisitionTime: '082651.157519'
+                          ContentTime: '082950.296000'
+                      AccessionNumber: '0'
+                             Modality: 'MR'
+                         Manufacturer: 'SIEMENS'
+                      InstitutionName: '4YM01JSTKBp^zEAw'
+               ReferringPhysicianName: [1×1 struct]
+                          StationName: 'Espree'
+                     StudyDescription: 'Neuro^Crane'
+                ProcedureCodeSequence: [1×1 struct]
+                    SeriesDescription: 't2_tse_tra_p2'
+              PerformingPhysicianName: [1×1 struct]
+                        OperatorsName: [1×1 struct]
+                ManufacturerModelName: 'Espree'
+              ReferencedStudySequence: [1×1 struct]
+              ReferencedImageSequence: [1×1 struct]
+                          PatientName: [1×1 struct]
+                            PatientID: 'XsxuId'
+                     PatientBirthDate: '19350401'
+                           PatientSex: '0000'
+                           PatientAge: '000Y'
+                        PatientWeight: 0
+                     ScanningSequence: 'SE'
+                      SequenceVariant: 'SK\SP\OSP'
+                    MRAcquisitionType: '2D'
+                         SequenceName: '*tse2d1_11'
+                            AngioFlag: 'N'
+                       SliceThickness: 5
+                       RepetitionTime: 6190
+                             EchoTime: 106
+                     NumberOfAverages: 2
+                     ImagingFrequency: 63.6574
+                        ImagedNucleus: '1H'
+                          EchoNumbers: 0
+                MagneticFieldStrength: 1.4940
+                 SpacingBetweenSlices: 6
+           NumberOfPhaseEncodingSteps: 263
+                      EchoTrainLength: 11
+                      PercentSampling: 70
+              PercentPhaseFieldOfView: 81.2500
+                       PixelBandwidth: 100
+                   DeviceSerialNumber: '30222'
+                     SoftwareVersions: 'syngo MR 2005E 4VB12A'
+                         ProtocolName: 't2_tse_tra_p2'
+                DateOfLastCalibration: '20070606'
+                TimeOfLastCalibration: '160415.000000'
+                     TransmitCoilName: 'Body'
+                    AcquisitionMatrix: [4×1 uint16]
+        InPlanePhaseEncodingDirection: 'ROW'
+                            FlipAngle: 150
+                VariableFlipAngleFlag: 'N'
+                                  SAR: 0.1463
+                                 dBdt: 0
+                      PatientPosition: 'HFS'
+                     StudyInstanceUID: '2.16.840.1.113669.632.20.1211.10000502993'
+                    SeriesInstanceUID: '1.3.12.2.1107.5.2.31.30222.30000007072005313478100000474'
+                              StudyID: 'A10041223026'
+                         SeriesNumber: 6
+                    AcquisitionNumber: 1
+                       InstanceNumber: 5
+                 ImagePositionPatient: [3×1 double]
+              ImageOrientationPatient: [6×1 double]
+                  FrameOfReferenceUID: '1.3.12.2.1107.5.2.31.30222.20070720081336125.0.0.0'
+                        SliceLocation: -43.3828
+                      SamplesPerPixel: 1
+            PhotometricInterpretation: 'MONOCHROME2'
+                                 Rows: 448
+                              Columns: 364
+                         PixelSpacing: [2×1 double]
+                        BitsAllocated: 16
+                           BitsStored: 12
+                              HighBit: 11
+                  PixelRepresentation: 0
+              SmallestImagePixelValue: 2
+               LargestImagePixelValue: 1421
+                         WindowCenter: 534
+                          WindowWidth: 1128
+         WindowCenterWidthExplanation: 'Algo1'
+                LossyImageCompression: '01'
+           LossyImageCompressionRatio: 5.8367
+                    RequestingService: 'IRMCEREB'
+        RequestedProcedureDescription: 'IRM cérébrale, neuro-crâne'
+       RequestedProcedureCodeSequence: [1×1 struct]
+      PerformedProcedureStepStartDate: '20070720'
+      PerformedProcedureStepStartTime: '081335.968000'
+             PerformedProcedureStepID: 'A10041223026'
+    PerformedProcedureStepDescription: 'IRM cérébrale, neuro-crâne'
+            RequestAttributesSequence: [1×1 struct]
+
+                             Filename: 'C:\Users\hP\Downloads\archive\data\BrainTumorMRI\IM-0001-0005.dcm'
+                          FileModDate: '27-Aug-2026 23:13:38'
+                             FileSize: 329190
+                               Format: 'DICOM'
+                        FormatVersion: 3
+                                Width: 364
+                               Height: 448
+                             BitDepth: 12
+                            ColorType: 'grayscale'
+       FileMetaInformationGroupLength: 204
+           FileMetaInformationVersion: [2×1 uint8]
+              MediaStorageSOPClassUID: '1.2.840.10008.5.1.4.1.1.4'
+           MediaStorageSOPInstanceUID: '1.3.12.2.1107.5.2.31.30222.30000007072005313478100000489'
+                    TransferSyntaxUID: '1.2.840.10008.1.2.1'
+               ImplementationClassUID: '1.2.276.0.7238010.5.0.3.5.4'
+            ImplementationVersionName: 'OSIRIX'
+         SourceApplicationEntityTitle: 'OsiriX'
+                 SpecificCharacterSet: 'ISO_IR 100'
+                            ImageType: 'ORIGINAL\PRIMARY\M\ND\NORM'
+                          SOPClassUID: '1.2.840.10008.5.1.4.1.1.4'
+                       SOPInstanceUID: '1.3.12.2.1107.5.2.31.30222.30000007072005313478100000489'
+                            StudyDate: '20070720'
+                           SeriesDate: '20070720'
+                      AcquisitionDate: '20070720'
+                          ContentDate: '20070720'
+                            StudyTime: '081335.968000'
+                           SeriesTime: '082947.937000'
+                      AcquisitionTime: '082651.157519'
+                          ContentTime: '082950.296000'
+                      AccessionNumber: '0'
+                             Modality: 'MR'
+                         Manufacturer: 'SIEMENS'
+                      InstitutionName: '4YM01JSTKBp^zEAw'
+               ReferringPhysicianName: [1×1 struct]
+                          StationName: 'Espree'
+                     StudyDescription: 'Neuro^Crane'
+                ProcedureCodeSequence: [1×1 struct]
+                    SeriesDescription: 't2_tse_tra_p2'
+              PerformingPhysicianName: [1×1 struct]
+                        OperatorsName: [1×1 struct]
+                ManufacturerModelName: 'Espree'
+              ReferencedStudySequence: [1×1 struct]
+              ReferencedImageSequence: [1×1 struct]
+                          PatientName: [1×1 struct]
+                            PatientID: 'XsxuId'
+                     PatientBirthDate: '19350401'
+                           PatientSex: '0000'
+                           PatientAge: '000Y'
+                        PatientWeight: 0
+                     ScanningSequence: 'SE'
+                      SequenceVariant: 'SK\SP\OSP'
+                    MRAcquisitionType: '2D'
+                         SequenceName: '*tse2d1_11'
+                            AngioFlag: 'N'
+                       SliceThickness: 5
+                       RepetitionTime: 6190
+                             EchoTime: 106
+                     NumberOfAverages: 2
+                     ImagingFrequency: 63.6574
+                        ImagedNucleus: '1H'
+                          EchoNumbers: 0
+                MagneticFieldStrength: 1.4940
+                 SpacingBetweenSlices: 6
+           NumberOfPhaseEncodingSteps: 263
+                      EchoTrainLength: 11
+                      PercentSampling: 70
+              PercentPhaseFieldOfView: 81.2500
+                       PixelBandwidth: 100
+                   DeviceSerialNumber: '30222'
+                     SoftwareVersions: 'syngo MR 2005E 4VB12A'
+                         ProtocolName: 't2_tse_tra_p2'
+                DateOfLastCalibration: '20070606'
+                TimeOfLastCalibration: '160415.000000'
+                     TransmitCoilName: 'Body'
+                    AcquisitionMatrix: [4×1 uint16]
+        InPlanePhaseEncodingDirection: 'ROW'
+                            FlipAngle: 150
+                VariableFlipAngleFlag: 'N'
+                                  SAR: 0.1463
+                                 dBdt: 0
+                      PatientPosition: 'HFS'
+                     StudyInstanceUID: '2.16.840.1.113669.632.20.1211.10000502993'
+                    SeriesInstanceUID: '1.3.12.2.1107.5.2.31.30222.30000007072005313478100000474'
+                              StudyID: 'A10041223026'
+                         SeriesNumber: 6
+                    AcquisitionNumber: 1
+                       InstanceNumber: 5
+                 ImagePositionPatient: [3×1 double]
+              ImageOrientationPatient: [6×1 double]
+                  FrameOfReferenceUID: '1.3.12.2.1107.5.2.31.30222.20070720081336125.0.0.0'
+                        SliceLocation: -43.3828
+                      SamplesPerPixel: 1
+            PhotometricInterpretation: 'MONOCHROME2'
+                                 Rows: 448
+                              Columns: 364
+                         PixelSpacing: [2×1 double]
+                        BitsAllocated: 16
+                           BitsStored: 12
+                              HighBit: 11
+                  PixelRepresentation: 0
+              SmallestImagePixelValue: 2
+               LargestImagePixelValue: 1421
+                         WindowCenter: 534
+                          WindowWidth: 1128
+         WindowCenterWidthExplanation: 'Algo1'
+                LossyImageCompression: '01'
+           LossyImageCompressionRatio: 5.8367
+                    RequestingService: 'IRMCEREB'
+        RequestedProcedureDescription: 'IRM cérébrale, neuro-crâne'
+       RequestedProcedureCodeSequence: [1×1 struct]
+      PerformedProcedureStepStartDate: '20070720'
+      PerformedProcedureStepStartTime: '081335.968000'
+             PerformedProcedureStepID: 'A10041223026'
+    PerformedProcedureStepDescription: 'IRM cérébrale, neuro-crâne'
+            RequestAttributesSequence: [1×1 struct]
+
